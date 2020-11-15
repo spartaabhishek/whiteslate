@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2293"
+    sodipodi:docname="Diffraction through Slit.svg"
+    viewBox="0 0 600 600"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.45.1"
+    sodipodi:docbase="C:\Documents and Settings\JJB\My Documents\My Pictures\Electronics\Illustrations\Materials\Wavefronts"
+  >
+  <sodipodi:namedview
+      id="base"
+      gridspacingy="5px"
+      gridspacingx="5px"
+      inkscape:zoom="0.79903066"
+      height="600px"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="261.91696"
+      inkscape:cy="369.59163"
+      inkscape:grid-points="true"
+      showgrid="true"
+      width="600px"
+      inkscape:document-units="px"
+      bordercolor="#666666"
+      inkscape:window-x="76"
+      guidetolerance="10"
+      objecttolerance="10"
+      inkscape:window-y="0"
+      inkscape:window-width="1356"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:window-height="874"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+    >
+    <rect
+        id="rect2307"
+        style="fill-rule:evenodd;fill:#ffffff"
+        height="600"
+        width="600"
+        y="1.1369e-13"
+        x="0"
+    />
+    <g
+        id="XMLID_3_"
+        style="fill:#ff0000"
+        transform="translate(11.828 19.724)"
+      >
+      <g
+          id="g5147"
+          style="fill:#ff0000"
+        >
+        <polygon
+            id="polygon5149"
+            style="opacity:.1;fill:#ff0000"
+            points="401.58 93.3 401.58 324.72 161.04 463.68 161.04 417.36 161.04 417.33 361.5 301.62 361.5 116.52 361.5 116.46 361.5 116.44"
+        />
+        <polygon
+            id="polygon5151"
+            style="opacity:.2;fill:#ff0000"
+            points="361.5 116.46 361.5 116.52 361.5 301.62 161.04 417.33 161.04 371.06 321.42 278.46 321.42 139.59 361.5 116.44"
+        />
+        <polygon
+            id="polygon5153"
+            style="opacity:.1;fill:#ff0000"
+            points="361.5 70.2 361.5 116.44 321.42 139.59 321.42 93.36 321.42 93.34"
+        />
+        <polygon
+            id="polygon5155"
+            style="opacity:.3;fill:#ff0000"
+            points="321.42 139.59 321.42 278.46 161.04 371.06 161.04 324.8 281.34 255.36 281.34 162.73"
+        />
+        <polygon
+            id="polygon5157"
+            style="opacity:.2;fill:#ff0000"
+            points="321.42 93.36 321.42 139.59 281.34 162.73 281.34 116.48 321.42 93.34"
+        />
+        <polygon
+            id="polygon5159"
+            style="opacity:.1;fill:#ff0000"
+            points="321.42 93.3 321.42 93.34 281.34 116.48 281.34 70.2 281.34 70.14 281.34 70.13 321.42 46.98"
+        />
+        <polygon
+            id="polygon5161"
+            style="opacity:.4;fill:#ff0000"
+            points="241.26 232.14 241.26 185.88 281.34 162.73 281.34 255.36 161.04 324.8 161.04 278.48"
+        />
+        <polygon
+            id="polygon5163"
+            style="opacity:.3;fill:#ff0000"
+            points="281.34 116.48 281.34 162.73 241.26 185.88 241.26 139.62"
+        />
+        <polygon
+            id="polygon5165"
+            style="opacity:.2;fill:#ff0000"
+            points="281.34 70.2 281.34 116.48 241.26 139.62 241.26 93.29 281.34 70.14"
+        />
+        <polygon
+            id="polygon5167"
+            style="opacity:.4;fill:#ff0000"
+            points="161.04 232.2 161.04 278.48 120.96 301.63 120.96 209.07 241.26 139.62 241.26 185.88"
+        />
+        <polygon
+            id="polygon5169"
+            style="opacity:.3;fill:#ff0000"
+            points="120.96 209.07 120.96 301.63 80.88 324.79 80.88 185.94 241.26 93.29 241.26 139.62"
+        />
+        <polygon
+            id="polygon5171"
+            style="opacity:.2;fill:#ff0000"
+            points="80.88 185.94 80.88 324.79 40.8 347.94 40.8 347.88 40.8 162.75 241.26 47.07 241.26 93.29"
+        />
+        <polygon
+            id="polygon5173"
+            style="opacity:.5;fill:#ff0000"
+            points="241.26 185.88 241.26 232.14 161.04 278.48 161.04 232.2"
+        />
+        <polygon
+            id="polygon5175"
+            style="opacity:.1;fill:#ff0000"
+            points="281.34 23.94 281.34 70.13 281.34 70.14 241.26 93.29 241.26 47.07"
+        />
+        <polygon
+            id="polygon5177"
+            style="opacity:.1;fill:#ff0000"
+            points="40.8 162.75 40.8 347.88 0.72 371.1 0.72 139.62 241.26 0.72 241.26 46.98 241.26 47.04 241.26 47.07"
+        />
+        <polygon
+            id="polygon5179"
+            style="opacity:.1;fill:#ff0000"
+            points="161.04 417.33 161.04 417.36 120.96 440.49 120.96 394.2 161.04 371.06"
+        />
+        <polygon
+            id="polygon5181"
+            style="opacity:.2;fill:#ff0000"
+            points="161.04 324.8 161.04 371.06 120.96 394.2 120.96 394.14 120.96 347.93"
+        />
+        <polygon
+            id="polygon5183"
+            style="opacity:.3;fill:#ff0000"
+            points="161.04 278.48 161.04 324.8 120.96 347.93 120.96 301.63"
+        />
+        <polygon
+            id="polygon5185"
+            style="opacity:.1;fill:#ff0000"
+            points="120.96 347.93 120.96 394.14 80.88 417.36 80.88 371.1 80.88 371.07"
+        />
+        <polygon
+            id="polygon5187"
+            style="opacity:.2;fill:#ff0000"
+            points="120.96 301.63 120.96 347.93 80.88 371.07 80.88 324.79"
+        />
+        <polygon
+            id="polygon5189"
+            style="opacity:.1;fill:#ff0000"
+            points="80.88 371.1 40.8 394.17 40.8 347.94 80.88 324.79 80.88 371.07"
+        />
+      </g
+      >
+      <g
+          id="g5191"
+          style="fill:#ff0000"
+          stroke-miterlimit="10"
+        >
+        <polyline
+            id="polyline5193"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="281.34 255.36 161.04 324.8 120.96 347.93 80.88 371.07 80.82 371.1"
+        />
+        <line
+            id="line5195"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            y2="394.14"
+            y1="417.36"
+            x2="120.96"
+            x1="80.88"
+        />
+        <polyline
+            id="polyline5197"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="80.88 371.1 40.8 394.17 40.74 394.2"
+        />
+        <polyline
+            id="polyline5199"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="120.96 394.2 161.04 371.06 321.42 278.46"
+        />
+        <line
+            id="line5201"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            y2="347.88"
+            y1="371.1"
+            x2="40.8"
+            x1="0.72"
+        />
+        <polyline
+            id="polyline5203"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="40.8 347.94 80.88 324.79 120.96 301.63 161.04 278.48 241.26 232.14"
+        />
+        <polyline
+            id="polyline5205"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="120.96 440.52 120.96 440.49 120.96 394.2 120.96 394.14 120.96 347.93 120.96 301.63 120.96 209.07 120.96 209.04"
+        />
+        <polyline
+            id="polyline5207"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="401.58 324.78 401.58 324.72 401.58 93.3"
+        />
+        <polyline
+            id="polyline5209"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="161.04 463.68 161.04 417.36 161.04 417.33 161.04 371.06 161.04 324.8 161.04 278.48 161.04 232.2 161.04 232.14"
+        />
+        <polyline
+            id="polyline5211"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="161.04 232.2 241.26 185.88 281.34 162.73 321.42 139.59 361.5 116.44 401.58 93.3"
+        />
+        <line
+            id="line5213"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            y2="116.52"
+            y1="301.62"
+            x2="361.5"
+            x1="361.5"
+        />
+        <line
+            id="line5215"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            y2="46.98"
+            y1="70.13"
+            x2="321.42"
+            x1="281.34"
+        />
+        <polyline
+            id="polyline5217"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="80.88 185.94 241.26 93.29 281.34 70.14"
+        />
+        <polyline
+            id="polyline5219"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="361.5 70.2 321.42 93.34 281.34 116.48 241.26 139.62 120.96 209.07 120.9 209.1"
+        />
+        <polyline
+            id="polyline5221"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="361.5 116.52 361.5 116.46 361.5 116.44 361.5 70.2 361.5 70.14"
+        />
+        <polyline
+            id="polyline5223"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="321.42 278.52 321.42 278.46 321.42 139.59 321.42 93.36"
+        />
+        <polyline
+            id="polyline5225"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="40.8 394.2 40.8 394.17 40.8 347.94 40.8 347.88 40.8 162.75 40.8 162.72"
+        />
+        <polyline
+            id="polyline5227"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="281.34 23.94 241.26 47.07 40.8 162.75 40.74 162.78"
+        />
+        <polyline
+            id="polyline5229"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="80.88 417.36 80.88 371.1 80.88 371.07 80.88 324.79 80.88 185.94 80.88 185.88"
+        />
+        <polyline
+            id="polyline5231"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="321.42 93.36 321.42 93.34 321.42 93.3 321.42 46.98"
+        />
+        <polyline
+            id="polyline5233"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="281.34 255.36 281.34 162.73 281.34 116.48 281.34 70.2"
+        />
+        <polyline
+            id="polyline5235"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="281.34 70.2 281.34 70.14 281.34 70.13 281.34 23.94 281.34 23.88"
+        />
+        <polyline
+            id="polyline5237"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="241.26 232.2 241.26 232.14 241.26 185.88 241.26 139.62 241.26 93.29 241.26 47.07 241.26 47.04"
+        />
+        <line
+            id="line5239"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            y2="324.72"
+            y1="463.68"
+            x2="401.58"
+            x1="161.04"
+        />
+        <line
+            id="line5241"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            y2="0.72"
+            y1="139.62"
+            x2="241.26"
+            x1="0.72"
+        />
+        <polyline
+            id="polyline5243"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="0.72 371.1 0.72 139.62 0.72 139.56"
+        />
+        <polyline
+            id="polyline5245"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="241.26 47.04 241.26 46.98 241.26 0.72"
+        />
+        <polyline
+            id="polyline5247"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:#ff0000"
+            points="361.5 301.62 161.04 417.33 160.98 417.36"
+        />
+        <polyline
+            id="polyline5249"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#ff0000"
+            points="161.04 417.36 120.96 440.49 120.9 440.52"
+        />
+      </g
+      >
+    </g
+    >
+    <g
+        id="XMLID_2_"
+        style="fill:#eeeeee"
+        transform="translate(131.78 89.319)"
+      >
+      <g
+          id="g3936"
+          style="fill:#eeeeee"
+        >
+        <polygon
+            id="polygon3938"
+            style="fill:#eeeeee"
+            points="421.68 12.36 421.68 243.84 223.2 358.35 223.2 126.96 421.63 12.33"
+        />
+        <polygon
+            id="polygon3940"
+            style="fill:#eeeeee"
+            points="421.63 12.33 223.2 126.96 203.18 115.37 401.55 0.74 401.58 0.78"
+        />
+        <polygon
+            id="polygon3942"
+            style="fill:#eeeeee"
+            points="223.2 126.96 223.2 358.35 223.17 358.36 219.24 356.02 219.24 129.24 219.24 129.18 219.19 129.21 203.16 119.95 203.16 115.38 203.18 115.37"
+        />
+        <polygon
+            id="polygon3944"
+            style="fill:#eeeeee"
+            points="203.16 119.95 219.19 129.21 20.76 243.84 0.72 232.26 199.17 117.62 199.2 117.66"
+        />
+        <polygon
+            id="polygon3946"
+            style="fill:#eeeeee"
+            points="20.76 243.84 20.76 475.23 20.73 475.24 0.72 463.68 0.72 232.26"
+        />
+        <polygon
+            id="polygon3948"
+            style="fill:#eeeeee"
+            points="219.24 356.02 219.24 360.72 20.76 475.23 20.76 243.84 219.19 129.21 219.24 129.24"
+        />
+      </g
+      >
+      <g
+          id="g3950"
+          style="fill:#eeeeee"
+          stroke-miterlimit="10"
+        >
+        <polyline
+            id="polyline3952"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="203.16 115.38 203.18 115.37 401.55 0.74 401.58 0.72"
+        />
+        <polyline
+            id="polyline3954"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="223.2 358.38 223.17 358.36 219.24 356.02 219.18 355.98"
+        />
+        <polyline
+            id="polyline3956"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="203.16 120 203.16 119.95 203.16 115.38 203.16 115.35 203.16 115.32"
+        />
+        <polyline
+            id="polyline3958"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="223.2 126.96 223.2 358.35 223.2 358.38"
+        />
+        <polyline
+            id="polyline3960"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="219.24 360.72 219.24 356.02 219.24 129.24 219.24 129.18"
+        />
+        <polyline
+            id="polyline3962"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="223.2 126.96 421.63 12.33 421.68 12.3"
+        />
+        <polyline
+            id="polyline3964"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="0.72 463.68 20.73 475.24 20.76 475.26"
+        />
+        <line
+            id="line3966"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            y2="243.84"
+            y1="232.26"
+            x2="20.76"
+            x1="0.72"
+        />
+        <polyline
+            id="polyline3968"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="219.24 360.72 20.76 475.23 20.73 475.24 20.7 475.26"
+        />
+        <polyline
+            id="polyline3970"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="20.76 475.26 20.76 475.23 20.76 243.84 20.76 243.78"
+        />
+        <polyline
+            id="polyline3972"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="421.68 243.84 223.2 358.35 223.17 358.36 223.14 358.38"
+        />
+        <polyline
+            id="polyline3974"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="20.76 243.84 219.19 129.21 219.24 129.18"
+        />
+        <polyline
+            id="polyline3976"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="0.72 463.68 0.72 232.26 0.72 232.2"
+        />
+        <polyline
+            id="polyline3978"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="0.72 232.26 199.17 117.62 199.2 117.6"
+        />
+        <polyline
+            id="polyline3980"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="223.2 126.96 203.18 115.37 203.16 115.35 203.1 115.32"
+        />
+        <polyline
+            id="polyline3982"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="199.2 117.66 203.16 119.95 219.19 129.21 219.24 129.24"
+        />
+        <polyline
+            id="polyline3984"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            points="401.58 0.78 421.63 12.33 421.68 12.36"
+        />
+        <line
+            id="line3986"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:#eeeeee"
+            y2="243.84"
+            y1="12.36"
+            x2="421.68"
+            x1="421.68"
+        />
+      </g
+      >
+    </g
+    >
+    <g
+        id="XMLID_1_"
+        transform="translate(188.45 126.18)"
+      >
+      <g
+          id="g2480"
+        >
+        <path
+            id="path2482"
+            style="opacity:.1;fill:#1e2353"
+            d="m281.28 162.72v41.57c-2.26 0.83-4.54 1.62-6.84 2.38v-40.17-0.06c2.32-1.19 4.6-2.43 6.84-3.72z"
+        />
+        <path
+            id="path2484"
+            style="opacity:.1;fill:#1e2353"
+            d="m241.2 139.56v40.33c-7.6 2.36-15.45 4.35-23.46 5.98v-35.87-0.02c8.39-2.8 16.29-6.27 23.46-10.42z"
+        />
+        <path
+            id="path2486"
+            style="opacity:.1;fill:#1e2353"
+            d="m80.88 179.89v35.89c-13.83-3.02-27.26-6.85-40.08-11.49v-0.05-41.52c12.17 7.01 25.69 12.73 40.08 17.17z"
+        />
+        <path
+            id="path2488"
+            style="opacity:.1;fill:#1e2353"
+            d="m120.96 154.56v34.17c-13.81-1.93-27.29-4.87-40.08-8.84v-0.01-0.06-40.26c11.75 6.8 25.46 11.79 40.08 14.98v0.02z"
+        />
+        <path
+            id="path2490"
+            style="opacity:.2;fill:#1e2353"
+            d="m120.96 188.73v33.43c-13.59-1.4-27.01-3.53-40.08-6.38v-35.89c12.79 3.97 26.27 6.91 40.08 8.84z"
+        />
+        <path
+            id="path2492"
+            style="opacity:.3;fill:#1e2353"
+            d="m201.12 188.73v33.42c-26.49 2.75-53.66 2.76-80.16 0.01v-33.43c26.32 3.68 53.84 3.68 80.16 0z"
+        />
+        <path
+            id="path2494"
+            style="opacity:.2;fill:#1e2353"
+            d="m201.12 154.54v34.19c-26.32 3.68-53.84 3.68-80.16 0v-34.17-0.02c25.77 5.62 54.39 5.62 80.16 0z"
+        />
+        <path
+            id="path2496"
+            style="opacity:.1;fill:#1e2353"
+            d="m217.74 93.24v0.06c0 8.36-5.54 16.71-16.62 23.16v-0.06-46.26c11.05 6.43 16.59 14.771 16.62 23.1z"
+        />
+        <path
+            id="path2498"
+            style="opacity:.1;fill:#1e2353"
+            d="m201.12 116.46v38.08c-25.77 5.62-54.39 5.62-80.16 0v-0.04-38.04c22.32 12.76 57.84 12.76 80.16 0z"
+        />
+        <path
+            id="path2500"
+            style="opacity:.2;fill:#1e2353"
+            d="m217.74 149.94v0.04c-5.36 1.8-10.92 3.32-16.62 4.56v-38.08c11.08-6.45 16.62-14.8 16.62-23.16v56.64z"
+        />
+        <path
+            id="path2502"
+            style="opacity:.3;fill:#1e2353"
+            d="m217.74 150v35.87c-5.47 1.13-11.02 2.08-16.62 2.86v-34.19c5.7-1.24 11.26-2.76 16.62-4.56v0.02z"
+        />
+        <path
+            id="path2504"
+            style="opacity:.4;fill:#1e2353"
+            d="m217.74 185.87v34.19c-5.5 0.82-11.04 1.52-16.62 2.09v-33.42c5.6-0.78 11.15-1.73 16.62-2.86z"
+        />
+        <path
+            id="path2506"
+            style="opacity:.2;fill:#1e2353"
+            d="m241.2 179.89v35.87c-7.7 1.69-15.54 3.12-23.46 4.3v-34.19c8.01-1.63 15.86-3.62 23.46-5.98z"
+        />
+        <path
+            id="path2508"
+            style="opacity:.3;fill:#1e2353"
+            d="m274.44 166.5v40.17c-10.72 3.58-21.84 6.62-33.24 9.09v-35.87c11.74-3.62 22.91-8.1 33.24-13.45v0.06z"
+        />
+        <path
+            id="path2510"
+            style="opacity:.1;fill:#1e2353"
+            d="m241.2 47.041c22.15 12.73 33.22 29.49 33.22 46.26 0 16.759-11.07 33.529-33.22 46.259v-0.06-92.459z"
+        />
+        <path
+            id="path2512"
+            style="opacity:.2;fill:#1e2353"
+            d="m274.44 93.3v73.14c-10.33 5.35-21.5 9.83-33.24 13.45v-40.33c22.15-12.73 33.22-29.5 33.22-46.26h0.02z"
+        />
+        <path
+            id="path2514"
+            style="opacity:.2;fill:#1e2353"
+            d="m321.36 60.51c6.5 10.59 9.74 21.69 9.74 32.79s-3.24 22.2-9.74 32.79v-65.55-0.03z"
+        />
+        <path
+            id="path2516"
+            style="opacity:.1;fill:#1e2353"
+            d="m321.36 60.541v65.549c-8.18 13.37-21.55 25.93-40.08 36.63v-0.06-138.78c18.53 10.7 31.9 23.26 40.08 36.63v0.031z"
+        />
+        <path
+            id="path2518"
+            style="opacity:.3;fill:#1e2353"
+            d="m331.14 179.88v0.01c-3.13 2.05-6.39 4.06-9.78 6.02v-59.82c6.5-10.59 9.74-21.69 9.74-32.79h0.04v86.52 0.06z"
+        />
+        <path
+            id="path2520"
+            style="opacity:.1;fill:#1e2353"
+            d="m331.14 93.3h-0.04c0-11.1-3.24-22.2-9.74-32.79v-59.79c44.5 25.83 66.42 59.22 66.42 92.52v0.01c0 31.04-19.05 62-56.64 86.63v-0.06-86.52z"
+        />
+        <path
+            id="path2522"
+            style="opacity:.2;fill:#1e2353"
+            d="m321.36 126.09v59.82c-0.85 0.49-1.71 0.98-2.58 1.47-11.68 6.5-24.26 12.14-37.5 16.91v-41.57c18.53-10.7 31.9-23.26 40.08-36.63z"
+        />
+        <path
+            id="path2524"
+            style="opacity:.4;fill:#1e2353"
+            d="m331.14 179.89v58.26c-3.23-2.12-6.5-4.12-9.78-6.01v-46.23c3.39-1.96 6.65-3.97 9.78-6.02z"
+        />
+        <path
+            id="path2526"
+            style="opacity:.2;fill:#1e2353"
+            d="m387.78 93.25v231.47c-0.11-37.45-26.72-66.93-56.64-86.57v-58.26-0.01c37.59-24.63 56.64-55.59 56.64-86.63z"
+        />
+        <path
+            id="path2528"
+            style="opacity:.3;fill:#1e2353"
+            d="m331.14 238.15v86.57h-0.03c-0.01-25.08-16.61-50.17-49.83-69.42v-51.01c13.24-4.77 25.82-10.41 37.5-16.91 0.87-0.49 1.73-0.98 2.58-1.47v46.23c3.28 1.89 6.55 3.89 9.78 6.01z"
+        />
+        <path
+            id="path2530"
+            style="opacity:.4;fill:#1e2353"
+            d="m274.44 206.67v118.05h-0.03c-0.01-16.76-11.08-33.52-33.21-46.26v-62.7c11.4-2.47 22.52-5.51 33.24-9.09z"
+        />
+        <path
+            id="path2532"
+            style="opacity:.5;fill:#1e2353"
+            d="m217.74 220.06v104.66c-0.02-10.28-8.24-18.36-16.62-23.1v-79.47c5.58-0.57 11.12-1.27 16.62-2.09z"
+        />
+        <path
+            id="path2534"
+            style="opacity:.4;fill:#1e2353"
+            d="m201.12 301.62c8.38 4.74 16.6 12.82 16.62 23.1-0.15 16.93-20.81 27.12-34.98 30.24-19.5 4.72-44.17 3.01-61.8-7.08v-125.72c26.5 2.75 53.67 2.74 80.16-0.01v79.47z"
+        />
+        <path
+            id="path2536"
+            style="opacity:.3;fill:#1e2353"
+            d="m274.41 324.72c0.01 16.77-11.06 33.55-33.21 46.32-44.61 25.56-115.71 25.56-160.32 0v-155.26c13.07 2.85 26.49 4.98 40.08 6.38v125.72c17.63 10.09 42.3 11.8 61.8 7.08 14.17-3.12 34.83-13.31 34.98-30.24v-104.66c7.92-1.18 15.76-2.61 23.46-4.3v62.7c22.13 12.74 33.2 29.5 33.21 46.26z"
+        />
+        <path
+            id="path2538"
+            style="opacity:.2;fill:#1e2353"
+            d="m331.11 324.72c0.01 25.1-16.6 50.21-49.83 69.48-66.93 38.32-173.55 38.32-240.48 0v-189.9-0.01c12.82 4.64 26.25 8.47 40.08 11.49v155.26c44.61 25.56 115.71 25.56 160.32 0 22.15-12.77 33.22-29.55 33.21-46.32h0.03v-118.05c2.3-0.76 4.58-1.55 6.84-2.38v51.01c33.22 19.25 49.82 44.34 49.83 69.42z"
+        />
+        <path
+            id="path2540"
+            style="opacity:.1;fill:#1e2353"
+            d="m331.14 238.15c29.92 19.64 56.53 49.12 56.64 86.57-1 68.21-82.85 108.11-139.98 120.96-77.9 18.77-176.69 11.96-247.08-28.38v-231.42c12.42 7.14 25.88 13.27 40.08 18.41v0.01 189.9c66.93 38.32 173.55 38.32 240.48 0 33.23-19.27 49.84-44.38 49.83-69.48h0.03v-86.57z"
+        />
+      </g
+      >
+      <g
+          id="g2542"
+          stroke-miterlimit="10"
+        >
+        <polyline
+            id="polyline2544"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="201.12 301.62 201.12 222.15 201.12 188.73 201.12 154.54 201.12 116.46"
+        />
+        <polyline
+            id="polyline2546"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="201.12 116.46 201.12 116.4 201.12 70.141 201.12 70.081"
+        />
+        <polyline
+            id="polyline2548"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="120.96 347.88 120.96 222.16 120.96 188.73 120.96 154.56"
+        />
+        <polyline
+            id="polyline2550"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="120.96 154.56 120.96 154.54 120.96 154.5 120.96 116.46 120.96 116.4"
+        />
+        <path
+            id="path2552"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            d="m217.74 324.72c-0.02-10.28-8.24-18.36-16.62-23.1"
+        />
+        <path
+            id="path2554"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            d="m120.96 347.88c17.63 10.09 42.3 11.8 61.8 7.08 14.17-3.12 34.83-13.31 34.98-30.24"
+        />
+        <path
+            id="path2556"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m217.74 93.24c-0.03-8.33-5.57-16.67-16.62-23.1"
+        />
+        <path
+            id="path2558"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m120.96 116.46c22.32 12.76 57.84 12.76 80.16 0 11.08-6.45 16.62-14.8 16.62-23.16"
+        />
+        <polyline
+            id="polyline2560"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="217.74 324.72 217.74 220.06 217.74 185.87 217.74 150"
+        />
+        <path
+            id="path2562"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m40.8 162.72c12.17 7.01 25.69 12.73 40.08 17.17 12.79 3.97 26.27 6.91 40.08 8.84 26.32 3.68 53.84 3.68 80.16 0 5.6-0.78 11.15-1.73 16.62-2.86 8.01-1.63 15.86-3.62 23.46-5.98 11.74-3.62 22.91-8.1 33.24-13.45 2.32-1.19 4.6-2.43 6.84-3.72 18.53-10.7 31.9-23.26 40.08-36.63 6.5-10.59 9.74-21.69 9.74-32.79s-3.24-22.2-9.74-32.79c-8.18-13.37-21.55-25.93-40.08-36.63"
+        />
+        <polyline
+            id="polyline2564"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="217.74 150 217.74 149.98 217.74 149.94 217.74 93.3 217.74 93.24"
+        />
+        <polyline
+            id="polyline2566"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="281.28 255.3 281.28 204.29 281.28 162.72"
+        />
+        <path
+            id="path2568"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            d="m40.8 394.2c66.93 38.32 173.55 38.32 240.48 0 33.23-19.27 49.84-44.38 49.83-69.48-0.01-25.08-16.61-50.17-49.83-69.42"
+        />
+        <polyline
+            id="polyline2570"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="321.36 0.72 321.36 60.51 321.36 60.541"
+        />
+        <polyline
+            id="polyline2572"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="281.28 162.72 281.28 162.66 281.28 23.88 281.28 23.82"
+        />
+        <polyline
+            id="polyline2574"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="321.36 60.541 321.36 126.09 321.36 185.91 321.36 232.14"
+        />
+        <path
+            id="path2576"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m0.72 417.3c70.39 40.34 169.18 47.15 247.08 28.38 57.13-12.85 138.98-52.75 139.98-120.96"
+        />
+        <path
+            id="path2578"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m387.78 93.24c0-33.3-21.92-66.69-66.42-92.52"
+        />
+        <path
+            id="path2580"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m331.14 179.88c37.59-24.63 56.64-55.59 56.64-86.63"
+        />
+        <path
+            id="path2582"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m0.72 185.88c12.42 7.14 25.88 13.27 40.08 18.41 12.82 4.64 26.25 8.47 40.08 11.49 13.07 2.85 26.49 4.98 40.08 6.38 26.5 2.75 53.67 2.74 80.16-0.01 5.58-0.57 11.12-1.27 16.62-2.09 7.92-1.18 15.76-2.61 23.46-4.3 11.4-2.47 22.52-5.51 33.24-9.09 2.3-0.76 4.58-1.55 6.84-2.38 13.24-4.77 25.82-10.41 37.5-16.91 0.87-0.49 1.73-0.98 2.58-1.47 3.39-1.96 6.65-3.97 9.78-6.02"
+        />
+        <polyline
+            id="polyline2584"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="274.44 324.72 274.44 206.67 274.44 166.5"
+        />
+        <path
+            id="path2586"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            d="m387.78 324.72c-0.11-37.45-26.72-66.93-56.64-86.57-3.23-2.12-6.5-4.12-9.78-6.01"
+        />
+        <polyline
+            id="polyline2588"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="274.44 166.5 274.44 166.44 274.44 93.3 274.44 93.24"
+        />
+        <polyline
+            id="polyline2590"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="80.88 371.04 80.88 215.78 80.88 179.89 80.88 179.88"
+        />
+        <polyline
+            id="polyline2592"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="80.88 179.88 80.88 179.82 80.88 139.56 80.88 139.5"
+        />
+        <line
+            id="line2594"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            y2="204.3"
+            y1="394.2"
+            x2="40.8"
+            x1="40.8"
+        />
+        <line
+            id="line2596"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            y2="417.3"
+            y1="185.88"
+            x2="0.72"
+            x1="0.72"
+        />
+        <polyline
+            id="polyline2598"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="40.8 204.3 40.8 204.29 40.8 204.24 40.8 162.72 40.8 162.66"
+        />
+        <polyline
+            id="polyline2600"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="241.2 278.46 241.2 215.76 241.2 179.89 241.2 139.56"
+        />
+        <polyline
+            id="polyline2602"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="241.2 139.56 241.2 139.5 241.2 47.041 241.2 46.98"
+        />
+        <polyline
+            id="polyline2604"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            points="331.14 324.72 331.14 238.15 331.14 179.89 331.14 179.88"
+        />
+        <path
+            id="path2606"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            d="m80.88 139.56c11.75 6.8 25.46 11.79 40.08 14.98 25.77 5.62 54.39 5.62 80.16 0 5.7-1.24 11.26-2.76 16.62-4.56 8.39-2.8 16.29-6.27 23.46-10.42 22.15-12.73 33.22-29.5 33.22-46.259 0-16.77-11.07-33.53-33.22-46.26"
+        />
+        <polyline
+            id="polyline2608"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="331.14 179.88 331.14 179.82 331.14 93.3 331.14 93.24"
+        />
+        <path
+            id="path2610"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:0.72;fill:none"
+            d="m80.88 371.04c44.61 25.56 115.71 25.56 160.32 0 22.15-12.77 33.22-29.55 33.21-46.32-0.01-16.76-11.08-33.52-33.21-46.26"
+        />
+        <polyline
+            id="polyline2612"
+            style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.44;fill:none"
+            points="387.78 324.72 387.78 93.25 387.78 93.24"
+        />
+      </g
+      >
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Diffraction through a slit</dc:title
+        >
+        <dc:date
+          >2006-12-26T00:00:00</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/24922/-by--24922</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
